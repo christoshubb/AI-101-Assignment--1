@@ -1,1 +1,2 @@
 # AI101-Assignment1
+This assignment was very interesting for me. This is my first time using Github and Google Colab, so learning to navigate them was interesting. Linking the two together to get the assignments was also unique, but I look forward to using this method more throughout the semester. I'd say any difficulties from this assignment came from trying to get the changes to save properly and making sure I got everything uploaded correctly.
